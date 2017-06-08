@@ -1,2 +1,4 @@
-﻿  Test1.cpp
-LINK : fatal error LNK1104: cannot open file 'C:\Users\stdan\Desktop\git_repos\LinkedList\Debug\LinkedList.lib'
+﻿  stdafx.cpp
+  Test1.cpp
+     Creating library C:\Users\stdan\Desktop\git_repos\LinkedList\Debug\LinkedList.Tests.lib and object C:\Users\stdan\Desktop\git_repos\LinkedList\Debug\LinkedList.Tests.exp
+  LinkedList.Tests.vcxproj -> C:\Users\stdan\Desktop\git_repos\LinkedList\Debug\LinkedList.Tests.dll
