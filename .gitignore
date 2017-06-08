@@ -34,6 +34,6 @@
 *.VC.opendb
 *.VC.db
 *.suo
-debug/
-Debug/
+*/debug/
+*/Debug/
 
