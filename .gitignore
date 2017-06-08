@@ -34,34 +34,38 @@
 *.VC.opendb
 *.VC.db
 
-\VSGITPractice\LinkedList\bin\Debug
-\VSGITPractice\LinkedList\LinkedList\Debug
-\VSGITPractice\LinkedList\LinkedList.Tests\Debug
-\VSGITPractice\LinkedList\bin\Relese
-\VSGITPractice\LinkedList\LinkedList\Relese
-\VSGITPractice\LinkedList\LinkedList.Tests\Relese
+**\VSGITPractice\LinkedList\bin\Debug
+**\VSGITPractice\LinkedList\LinkedList\Debug
+**\VSGITPractice\LinkedList\LinkedList.Tests\Debug
+**\VSGITPractice\LinkedList\bin\Relese
+**\VSGITPractice\LinkedList\LinkedList\Relese
+**\VSGITPractice\LinkedList\LinkedList.Tests\Relese
 
-\VSGITPractice\LinkedList\LinkedList.Tests\x64
-\VSGITPractice\LinkedList\LinkedList\x64
-\VSGITPractice\LinkedList\x64
+**\VSGITPractice\LinkedList\LinkedList.Tests\x64
+**\VSGITPractice\LinkedList\LinkedList\x64
+**\VSGITPractice\LinkedList\x64
+
+**\VSGITPractice\LinkedList\LinkedList.Tests\x64\Debug
+**\VSGITPractice\LinkedList\LinkedList\x64\Debug
 
 
 
-/VSGITPractice/LinkedList/bin/Debug
-/VSGITPractice/LinkedList/LinkedList/Debug
-/VSGITPractice/LinkedList/LinkedList.Tests/Debug
-/VSGITPractice/LinkedList/bin/Relese
-/VSGITPractice/LinkedList/LinkedList/Relese
-/VSGITPractice/LinkedList/LinkedList.Tests/Relese
-
-/VSGITPractice/LinkedList/LinkedList.Tests/x64
-/VSGITPractice/LinkedList/LinkedList/x64
-/VSGITPractice/LinkedList/x64
 /LinkedList/x64/Debug/LinkedList.Tests.pdb
 /LinkedList/x64/Debug/LinkedList.Tests.ilk
 /LinkedList/x64/Debug/LinkedList.Tests.exp
 /LinkedList/x64/Debug/LinkedList.pdb
 /LinkedList/x64/Debug/LinkedList.ilk
+/LinkedList/LinkedList/x64/Debug/vc140.pdb
+/LinkedList/LinkedList/x64/Debug/vc140.idb
+/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/LinkedList.lastbuildstate
+/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/link.write.1.tlog
+/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/link.read.1.tlog
+/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/link.command.1.tlog
+/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/CL.write.1.tlog
+/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/CL.read.1.tlog
+/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/CL.command.1.tlog
+/LinkedList/LinkedList/x64/Debug/LinkedList.log
+/LinkedList/LinkedList/x64/Debug/LinkedList.Build.CppClean.log
 /LinkedList/LinkedList.Tests/x64/Debug/vc140.pdb
 /LinkedList/LinkedList.Tests/x64/Debug/vc140.idb
 /LinkedList/LinkedList.Tests/x64/Debug/LinkedList.Tests.tlog/LinkedList.Tests.write.1u.tlog
@@ -73,13 +77,4 @@
 /LinkedList/LinkedList.Tests/x64/Debug/LinkedList.Tests.tlog/CL.read.1.tlog
 /LinkedList/LinkedList.Tests/x64/Debug/LinkedList.Tests.tlog/CL.command.1.tlog
 /LinkedList/LinkedList.Tests/x64/Debug/LinkedList.Tests.log
-/LinkedList/LinkedList/x64/Debug/vc140.pdb
-/LinkedList/LinkedList/x64/Debug/vc140.idb
-/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/LinkedList.lastbuildstate
-/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/link.write.1.tlog
-/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/link.read.1.tlog
-/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/link.command.1.tlog
-/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/CL.write.1.tlog
-/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/CL.read.1.tlog
-/LinkedList/LinkedList/x64/Debug/LinkedList.tlog/CL.command.1.tlog
-/LinkedList/LinkedList/x64/Debug/LinkedList.log
+/LinkedList/LinkedList.Tests/x64/Debug/LinkedList.Tests.Build.CppClean.log
