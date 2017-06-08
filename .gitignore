@@ -34,9 +34,9 @@
 *.VC.opendb
 *.VC.db
 
-**/LinkedList/bin/Debug
-**/LinkedList/LinkedList/Debug
-**/LinkedList/LinkedList.Tests/Debug
-**/LinkedList/bin/Relese
-**/LinkedList/LinkedList/Relese
-**/LinkedList/LinkedList.Tests/Relese
+**/VSGITPractice/LinkedList/bin/Debug
+**/VSGITPractice/LinkedList/LinkedList/Debug
+**/VSGITPractice/LinkedList/LinkedList.Tests/Debug
+**/VSGITPractice/LinkedList/bin/Relese
+**/VSGITPractice/LinkedList/LinkedList/Relese
+**/VSGITPractice/LinkedList/LinkedList.Tests/Relese
