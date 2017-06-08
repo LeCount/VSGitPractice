@@ -1,29 +1,17 @@
 #pragma once
+#define NULL nullptr
 
 namespace list_api{
 	
-	template <typename T>
-	class Content {
-	private:
-		T data;
-	public:
-		Content();
-		~Content();
-		void set(T newData);
-		T get();
-	};
-
-	template <typename T>
 	class Node {
 	private:
-		Content<T> content;
+		int data;
 		Node* next = NULL;
 	public:
-		void Peek(void);
-		Node* Next(void);
+		int peek(void);
+		Node* get_next(void);
 	};
 
-	template <typename T>
 	class LinkedList {
 	private:
 		Node* root = NULL;
@@ -32,10 +20,10 @@ namespace list_api{
 		bool IsEmpty();
 		int Count(void);
 		void Print(void);
-		void add(T newData);
+		void add(int newData);
 		void Sort(void);
 		void Clear(void);
-		void DeleteNode(Node* nodeToDelete);
+		void DeleteNode();
 	};
 }
 
@@ -43,11 +31,10 @@ namespace memory_management_api
 {
 	using namespace list_api;
 
-	template <typename T>
 	class MemManagement {
 		static Node* assignMemory(void);
 
-		static Node* assignMemory(T newData);
+		static Node* assignMemory(int newData);
 
 	};
 }
