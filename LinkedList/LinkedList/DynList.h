@@ -6,10 +6,10 @@ namespace list_api{
 	class Node {
 	private:
 		int data;
-		Node* next = NULL;
+		Node* next;
 	public:
-		int peek(void);
-		Node* get_next(void);
+		int& peek(void);
+		Node* getNext(void);
 	};
 
 	class LinkedList {
