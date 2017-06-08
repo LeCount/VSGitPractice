@@ -34,19 +34,26 @@
 *.VC.opendb
 *.VC.db
 
-**/VSGITPractice/LinkedList/bin/Debug
-**/VSGITPractice/LinkedList/LinkedList/Debug
-**/VSGITPractice/LinkedList/LinkedList.Tests/Debug
-**/VSGITPractice/LinkedList/bin/Relese
-**/VSGITPractice/LinkedList/LinkedList/Relese
-**/VSGITPractice/LinkedList/LinkedList.Tests/Relese
-**/VSGITPractice/LinkedList/LinkedList/x64
+/VSGITPractice/LinkedList/bin/Debug
+/VSGITPractice/LinkedList/LinkedList/Debug
+/VSGITPractice/LinkedList/LinkedList.Tests/Debug
+/VSGITPractice/LinkedList/bin/Relese
+/VSGITPractice/LinkedList/LinkedList/Relese
+/VSGITPractice/LinkedList/LinkedList.Tests/Relese
 
-**\VSGITPractice\LinkedList\bin\Debug
-**\VSGITPractice\LinkedList\LinkedList\Debug
-**\VSGITPractice\LinkedList\LinkedList.Tests\Debug
-**\VSGITPractice\LinkedList\bin\Relese
-**\VSGITPractice\LinkedList\LinkedList\Relese
-**\VSGITPractice\LinkedList\LinkedList.Tests\Relese
+\VSGITPractice\LinkedList\bin\Debug
+\VSGITPractice\LinkedList\LinkedList\Debug
+\VSGITPractice\LinkedList\LinkedList.Tests\Debug
+\VSGITPractice\LinkedList\bin\Relese
+\VSGITPractice\LinkedList\LinkedList\Relese
+\VSGITPractice\LinkedList\LinkedList.Tests\Relese
 
-**\VSGITPractice\LinkedList\LinkedList\x64
+
+
+\VSGITPractice\LinkedList\LinkedList.Tests\x64
+\VSGITPractice\LinkedList\LinkedList\x64
+\VSGITPractice\LinkedList\x64
+
+/VSGITPractice/LinkedList/LinkedList.Tests/x64
+/VSGITPractice/LinkedList/LinkedList/x64
+/VSGITPractice/LinkedList/x64
