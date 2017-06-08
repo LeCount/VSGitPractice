@@ -34,14 +34,10 @@
 *.VC.opendb
 *.VC.db
 
-**/Debug/
-**/Release/
+LinkedList/bin/Debug/
+LinkedList/LinkedList/Debug
+LinkedList/LinkedList.Tests/Debug
 
-**/debug/
-**/release/
-
-**/Debug
-**/Release
-
-**/debug
-**/release
+**\LinkedList\Debug
+**\LinkedList\LinkedList\Debug
+**\LinkedList\LinkedList.Tests\Debug
