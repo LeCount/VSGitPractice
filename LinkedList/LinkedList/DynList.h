@@ -8,7 +8,7 @@ namespace list_api{
 		int data;
 		Node* next;
 	public:
-		int& peek(void);
+		int peek(void);
 		Node* getNext(void);
 	};
 

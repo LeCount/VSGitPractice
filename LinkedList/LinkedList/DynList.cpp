@@ -1,7 +1,7 @@
 #include "DynList.h"
 using namespace list_api;
 
-int& list_api::Node::peek(void)
+int list_api::Node::peek(void)
 {
 	return data;
 }
