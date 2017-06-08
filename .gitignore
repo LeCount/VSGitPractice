@@ -34,9 +34,9 @@
 *.VC.opendb
 *.VC.db
 
-**/LinkedList/bin/Debug/
-**/LinkedList/LinkedList/Debug/
-**/LinkedList/LinkedList.Tests/Debug/
-**/LinkedList/bin/Relese/
-**/LinkedList/LinkedList/Relese/
-**/LinkedList/LinkedList.Tests/Relese/
+**/LinkedList/bin/Debug
+**/LinkedList/LinkedList/Debug
+**/LinkedList/LinkedList.Tests/Debug
+**/LinkedList/bin/Relese
+**/LinkedList/LinkedList/Relese
+**/LinkedList/LinkedList.Tests/Relese
