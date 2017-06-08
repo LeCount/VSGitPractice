@@ -35,4 +35,5 @@
 *.VC.db
 *.suo
 debug/
+Debug/
 
