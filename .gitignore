@@ -33,9 +33,15 @@
 
 *.VC.opendb
 *.VC.db
-*.suo
-*.pdb
-*.idb
-*.exp
-*.ilk
-*.log
+
+**/Debug/
+**/Release/
+
+**/debug/
+**/release/
+
+**/Debug
+**/Release
+
+**/debug
+**/release
