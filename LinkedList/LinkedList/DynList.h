@@ -1,5 +1,4 @@
 #pragma once
-#define NULL nullptr
 
 namespace list_api{
 	
@@ -10,8 +9,8 @@ namespace list_api{
 	public:
 		Content();
 		~Content();
-		void Set(T newData);
-		T Get();
+		void set(T newData);
+		T get();
 	};
 
 	template <typename T>
@@ -40,11 +39,15 @@ namespace list_api{
 	};
 }
 
-namespace memory_management_api 
+namespace memory_management_api
 {
-	template <typename T>
-	Node* assignMemory(void);
+	using namespace list_api;
 
 	template <typename T>
-	Node* assignMemory(T newData);
+	class MemManagement {
+		static Node* assignMemory(void);
+
+		static Node* assignMemory(T newData);
+
+	};
 }
