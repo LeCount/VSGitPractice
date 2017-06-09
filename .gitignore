@@ -33,6 +33,13 @@
 
 *.VC.opendb
 *.VC.db
+*.ilk
+*.pdb
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
 
 **\VSGITPractice\LinkedList\bin\Debug
 **\VSGITPractice\LinkedList\LinkedList\Debug
