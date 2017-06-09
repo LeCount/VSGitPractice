@@ -1,5 +1,6 @@
 #pragma once
-#define NULL nullptr
+#include <cstdio>
+#include <cstdlib>
 
 namespace list_api{
 	
